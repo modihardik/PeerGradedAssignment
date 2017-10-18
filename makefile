@@ -1,7 +1,6 @@
 README.md: guessinggame.sh
 	touch README.md
-		echo "#Title of Project" > README.md
-		
+		echo "# Title of Project" > README.md		
 		echo "Bash, make, git and github <br />" >> README.md
 		echo "Date and time at which make was run <br />" >> README.md
 		date >> README.md
